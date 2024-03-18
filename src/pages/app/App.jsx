@@ -11,7 +11,7 @@ import NotFound from '../notfound/NotFound'
 import SignIn from '../signin/SignIn'
 import CheckoutSideMenu from '../../components/checkoutsidemenu/CheckoutSideMenu'
 import './App.css'
-
+// routes
 const  App = () => {
   return (
     <ShoppingCartProvider>
